@@ -1,5 +1,5 @@
 '''
-@author : Vivek Kumar Yadav
+@author : vignesh
 Event   : TCS Humain 2019
 Category: Object detection & OCR
 '''
